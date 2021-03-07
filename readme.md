@@ -20,3 +20,7 @@ API url is encrypted as well as user's data but with Base64 because we need to d
 
 #### - Screenshots of your application
 
+![Login Page] (img/login.PNG)
+![LBank account display] (img/bank_account.PNG)
+![Choosing another account] (img/account_choice.PNG)
+![Other account choosen] (img/choose_other_account.PNG)
